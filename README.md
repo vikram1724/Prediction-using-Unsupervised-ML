@@ -2,7 +2,7 @@
 
 OBJECTIVE-Clustering of Iris Dataset
 ## Performed by 
-# vIKRAM SINGH
+# VIKRAM SINGH
 
 The main objective is to predict the optimal number of clusters from the given "Iris" dataset, K-Mean Algorithm
 k-means clustering is a method of vector quantization, originally from signal processing, that aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean, serving as a prototype of the cluster.
@@ -30,6 +30,7 @@ There are essentially three stopping criteria that can be adopted to stop the K-
 3.Maximum number of iterations are reached
 
 ![1_zg9ZakKSuCLxUD-bANCgQQ](https://user-images.githubusercontent.com/75565736/115990020-b69d0a80-a5de-11eb-8b30-d0c0a81002c9.png)
+
 ![images](https://user-images.githubusercontent.com/75565736/115990021-ba309180-a5de-11eb-97d1-2db2160c3d1b.png)
 
 
