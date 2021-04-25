@@ -1,7 +1,7 @@
 # Prediction-using-Unsupervised-ML
-# Prediction-using-Unsupervised-ML
+
 OBJECTIVE-Clustering of Iris Dataset
-Performed by 
+## Performed by 
 # vIKRAM SINGH
 
 The main objective is to predict the optimal number of clusters from the given "Iris" dataset, K-Mean Algorithm
@@ -29,8 +29,7 @@ There are essentially three stopping criteria that can be adopted to stop the K-
 
 3.Maximum number of iterations are reached
 
-![images1](https://user-images.githubusercontent.com/75565736/115989478-307fc480-a5dc-11eb-9c3b-b05eba3bcb3e.png)
-
-![images2](https://user-images.githubusercontent.com/75565736/115989480-32e21e80-a5dc-11eb-9fd0-071e117028d6.png)
+![1_zg9ZakKSuCLxUD-bANCgQQ](https://user-images.githubusercontent.com/75565736/115990020-b69d0a80-a5de-11eb-8b30-d0c0a81002c9.png)
+![images](https://user-images.githubusercontent.com/75565736/115990021-ba309180-a5de-11eb-97d1-2db2160c3d1b.png)
 
 
