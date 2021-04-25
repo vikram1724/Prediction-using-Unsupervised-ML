@@ -30,6 +30,7 @@ There are essentially three stopping criteria that can be adopted to stop the K-
 3.Maximum number of iterations are reached
 
 ![images1](https://user-images.githubusercontent.com/75565736/115989478-307fc480-a5dc-11eb-9c3b-b05eba3bcb3e.png)
+
 ![images2](https://user-images.githubusercontent.com/75565736/115989480-32e21e80-a5dc-11eb-9fd0-071e117028d6.png)
 
 
